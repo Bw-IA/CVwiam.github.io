@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(245, 245, 243);
+    color: black;
+}
+#bg-img{
+    background:url("images/jexo-5OgJB9CVb68-unsplash.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.text-color{
+    color: black;
+}
+
+.background-darkLight, .table-color{
+    background:rgb(179, 180, 180);
+}
+.table-color{
+    color: black;
+}
+.textColor{
+    color: rgb(71, 55, 4);
+}
+
+.main-timeline .timeline-content{
+    background-color: rgb(123, 125, 126);
+  
+}
+
+.main-timeline .title {
+    color: rgb(29, 26, 26);
+}
+.main-timeline .description{
+    color: rgb(29, 26, 26);
+}
+
+.competence{
+    background:url('images/simon-berger-jCdJzqGnofw-unsplash.jpg') center no-repeat fixed;
+    background-size: cover;
+}
+
+.background-skills{
+    background-color: rgb(123, 125, 126);
+    color: rgb(29, 26, 26);
+}
+.text-form-color{
+    color: black;
+}
+
+.fa-moon{
+    visibility:visible;
+}
+.fa-sun{
+    visibility: hidden;
+}
+
